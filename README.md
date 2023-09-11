@@ -1,6 +1,6 @@
 # phishing
 
-Acesso root: sudo su
+- Passo 1 > Acesso root: '''sudo su'''
 Iniciando o setoolkit: setoolkit
 Tipo de ataque: Social-Engineering Attacks
 Vetor de ataque: Web Site Attack Vectors
